@@ -1,113 +1,114 @@
-# HR Analytics – Employee Attrition Dashboard
+# HR Analytics Dashboard – Employee Attrition Analysis
 
-An interactive Power BI dashboard designed to analyze employee attrition and identify workforce patterns across departments, job roles, salary levels, age groups, tenure, gender and job satisfaction.
+An interactive **Power BI HR Analytics Dashboard** designed to analyze employee attrition, job roles, satisfaction levels, salary slabs, age groups, tenure, and departmental patterns.
 
-The dashboard transforms HR data into interactive visual insights that can help understand where employee attrition is concentrated and which workforce factors require attention.
-
----
-
-## 📊 Dashboard Preview
-
-### Attrition Overview
-
-#HR_Anlytics_DB.png
-
-### Job Role & Satisfaction Analysis
-
-#HR Analytics DB2.png
+The dashboard converts employee data into clear KPIs and visual insights to help understand **why employees leave and which employee groups show higher attrition**.
 
 ---
 
-## 🎯 Business Problem
+## 📊 Dashboard Overview
 
-Employee attrition can have a significant impact on workforce stability, recruitment costs and business performance.
-
-The objective of this project is to analyze employee attrition patterns and answer questions such as:
-
-- Which job roles have the highest attrition?
-- Which salary slabs experience higher attrition?
-- How does employee age relate to attrition?
-- Which tenure groups show higher employee attrition?
-- Is lower job satisfaction associated with higher attrition?
-- Which departments have the highest attrition?
-- How is attrition distributed by gender?
-
----
-
-## 📌 Dashboard Overview
-
-The dashboard contains two analytical pages.
+The dashboard contains two interactive pages:
 
 ### Page 1 – Attrition Overview
 
-This page provides a high-level view of employee attrition through:
+The overview page provides a high-level analysis of employee attrition with key KPIs and visualizations.
 
-- Total Employees
-- Total Attrition
-- Attrition Rate
-- Average Salary
-- Average Tenure
+**Key KPIs:**
+- Total Employees: **1,470**
+- Total Attrition: **237**
+- Attrition Rate: **16.12%**
+- Average Salary: **₹6.50K**
+- Average Tenure: **7.01 Years**
+
+**Analysis includes:**
 - Attrition by Gender
 - Attrition by Salary Slab
 - Attrition by Age Group
 - Attrition by Tenure
+- Department filter
+- Education Level filter
 
-Interactive filters are available for:
-
-- Department
-- Education Level
-
-### Page 2 – Job Role & Satisfaction Analysis
-
-This page focuses on job-role-level attrition and employee satisfaction.
-
-It includes:
-
-- Job Role & Satisfaction Score analysis
-- Attrition by Job Role
-- Attrition Count by Department
-- Key HR insights
+![HR Analytics Dashboard - Attrition Overview](HR%20Anlytics%20DB.png)
 
 ---
 
-## 📈 Key Insights
+### Page 2 – Job Role & Satisfaction Analysis
 
-Based on the dashboard analysis:
+The second page focuses on the relationship between job roles, satisfaction levels, departments, and employee attrition.
 
-- The dashboard reports **1,470 total employees**.
-- The overview page reports **237 employee attritions**.
-- The overall attrition rate shown on the dashboard is **16.12%**.
-- **Sales Executive** is the job role with the highest attrition in the job-role analysis.
-- Employees with lower job satisfaction scores (1 and 2) show higher attrition within the analyzed job-role satisfaction view.
-- The **0–2 year tenure range** shows the highest attrition concentration in the tenure analysis.
-- Attrition varies across departments, salary slabs, age groups and gender.
+**Analysis includes:**
+- Job Role & Satisfaction Score
+- Attrition by Job Role
+- Attrition Count by Department
+- Key Insights
+- Department filter
+
+![HR Analytics Dashboard - Job Role & Satisfaction Analysis](HR%20Analytics%20DB2.png)
+
+---
+
+## 💡 Key Insights
+
+The dashboard highlights several important patterns:
+
+- **Sales Executive** has the highest attrition among the analyzed job roles.
+- Employees with **lower job satisfaction (1 & 2)** show higher attrition.
+- **Early tenure (0–2 years)** has the highest attrition.
+- Salary slab, age group, department, and job role can be explored interactively using the dashboard filters.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Power BI
-- DAX
-- Data Modeling
-- Data Visualization
-- Interactive Filters & Dashboard Design
+- **Power BI**
+- **Power Query**
+- **DAX**
+- **Data Modeling**
+- **Data Visualization**
 
 ---
 
-## 📊 Dashboard Features
+## 📈 Skills Demonstrated
 
-- Interactive HR analytics dashboard
-- KPI cards for quick performance overview
-- Department and education-level filters
-- Job role analysis
-- Employee satisfaction analysis
-- Salary slab analysis
-- Age group analysis
-- Tenure analysis
-- Gender-based attrition analysis
-- Department-level attrition analysis
-- Interactive navigation between dashboard pages
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Measures
+- KPI Development
+- Interactive Dashboard Development
+- Business Analysis
+- HR Analytics
+- Data Visualization
+- Insight Generation
 
+---
+
+## 🎯 Business Objective
+
+The objective of this project is to transform employee data into an interactive analytical dashboard that helps identify **attrition patterns and employee groups with higher turnover**.
+
+The dashboard can support HR teams in understanding workforce trends and identifying areas that may require further investigation.
+
+---
+
+## 👨‍💻 About the Project
+
+This project is part of my **Data Analytics portfolio**, where I practice solving business problems using Power BI, Excel, SQL, and data visualization techniques.
+
+More projects and dashboards are available on my portfolio and GitHub profile.
+
+---
+
+## 🔗 Connect With Me
+
+**GitHub:**  
+https://github.com/Aman-K-Gupta
+
+**LinkedIn:**  
+https://www.linkedin.com/in/aman-kumar-gupta-9a068b148/
+
+**Portfolio:**  
+https://amananalytics.lovable.app
 ---
 
 ## 💡 Key Business Questions
